@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJE3cIUXKps=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\etosc\\Documents\\ang\\EventApi\\EventApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\9.0.10\\microsoft.aspnetcore.connections.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\9.0.10\\microsoft.aspnetcore.http.connections.client.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\9.0.10\\microsoft.aspnetcore.http.connections.common.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\9.0.10\\microsoft.aspnetcore.signalr.client.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\9.0.10\\microsoft.aspnetcore.signalr.client.core.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\9.0.10\\microsoft.aspnetcore.signalr.common.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\9.0.10\\microsoft.aspnetcore.signalr.protocols.json.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.10\\microsoft.extensions.dependencyinjection.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.10\\microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.extensions.features\\9.0.10\\microsoft.extensions.features.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.extensions.logging\\9.0.10\\microsoft.extensions.logging.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.10\\microsoft.extensions.logging.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.extensions.options\\9.0.10\\microsoft.extensions.options.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.10\\microsoft.extensions.primitives.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\system.net.serversentevents\\9.0.10\\system.net.serversentevents.9.0.10.nupkg.sha512",
+    "C:\\Users\\etosc\\.nuget\\packages\\system.threading.channels\\9.0.10\\system.threading.channels.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
